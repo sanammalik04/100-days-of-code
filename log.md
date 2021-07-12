@@ -12,21 +12,21 @@
 
 **Today's Progress**: I completed two hackerrank algorithm problems in Javascript and created a small project in javascript and html/css 
 
-### Day 1: July 9, 2021
+### Day 3: July 9, 2021
 
 **Today's Progress**: I completed two hackerrank algorithm problems in Javascript. 
 
 
-### Day 1: July 10, 2021
+### Day 4: July 10, 2021
 
 **Today's Progress**: I completed two hackerrank algorithm problems in Javascript. 
 
 
-### Day 1: July 11, 2021
+### Day 5: July 11, 2021
 
 **Today's Progress**: I completed two hackerrank algorithm problems in Javascript. 
 
-### Day 1: July 12, 2021
+### Day 6: July 12, 2021
 
 **Today's Progress**: I completed two hackerrank algorithm problems in Javascript. 
 
