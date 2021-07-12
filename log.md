@@ -8,7 +8,27 @@
 
 **Link to work:** [Hackerrank](https://github.com/sanammalik04/js-projects/tree/main/EasyAlgosHack)
 
-### Day 2: 
+### Day 2: July 8, 2021
+
+**Today's Progress**: I completed two hackerrank algorithm problems in Javascript and created a small project in javascript and html/css 
+
+### Day 1: July 9, 2021
+
+**Today's Progress**: I completed two hackerrank algorithm problems in Javascript. 
+
+
+### Day 1: July 10, 2021
+
+**Today's Progress**: I completed two hackerrank algorithm problems in Javascript. 
+
+
+### Day 1: July 11, 2021
+
+**Today's Progress**: I completed two hackerrank algorithm problems in Javascript. 
+
+### Day 1: July 12, 2021
+
+**Today's Progress**: I completed two hackerrank algorithm problems in Javascript. 
 
 
 
